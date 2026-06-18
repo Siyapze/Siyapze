@@ -37,6 +37,74 @@ I'm a full-stack developer and ML engineer passionate about building innovative 
 
 ---
 
+## 🔐 Private Projects & Learning Initiatives
+
+Beyond public repositories, I've developed several private projects that demonstrate advanced technical capabilities:
+
+### 📱 **E-Commerce Mobile Application** (Private)
+**Mobile-first shopping platform** built with Flutter for cross-platform iOS/Android deployment. Features include product catalog management, user authentication, secure payment integration, shopping cart functionality, and order tracking. 
+
+**Skills & Topics Covered:**
+- Flutter UI/UX design patterns and responsive layouts
+- Local data persistence with SQLite & Hive
+- State management (Provider/Riverpod)
+- Secure API integration & token-based authentication
+- Payment gateway integration (Stripe/PayPal)
+
+---
+
+### 🧠 **Deep Learning Computer Vision Pipeline** (Private)
+**Advanced CNN model development** for custom image classification and object detection tasks. Includes model training, hyperparameter tuning, data augmentation, and TensorFlow/PyTorch implementation with performance optimization.
+
+**Skills & Topics Covered:**
+- Convolutional Neural Networks (CNN) architecture design
+- Transfer learning & fine-tuning pre-trained models
+- Data preprocessing & augmentation techniques
+- Model evaluation, validation, and performance metrics
+- TensorFlow/Keras & PyTorch frameworks
+- GPU optimization & computational efficiency
+
+---
+
+### 📊 **Data Analytics & Visualization Dashboard** (Private)
+**Interactive analytics platform** for real-time data visualization and business intelligence. Built with Python backend and modern frontend framework, featuring complex data transformations, aggregations, and interactive charts.
+
+**Skills & Topics Covered:**
+- Data extraction, transformation, and loading (ETL)
+- Time-series analysis and forecasting
+- Statistical analysis & hypothesis testing
+- Data visualization libraries (Matplotlib, Plotly, Seaborn)
+- Database optimization & query performance
+- Real-time data streaming & processing
+
+---
+
+### 🔒 **Authentication & Security Module** (Private)
+**Enterprise-grade authentication system** implementing OAuth 2.0, JWT token management, role-based access control (RBAC), and encryption protocols. Focuses on security best practices and compliance standards.
+
+**Skills & Topics Covered:**
+- OAuth 2.0 & OpenID Connect protocols
+- JWT token generation and validation
+- Password hashing & cryptographic security (bcrypt, Argon2)
+- Role-based access control (RBAC) & permissions management
+- API security & rate limiting
+- Compliance standards (GDPR, OWASP)
+
+---
+
+### 🤖 **NLP & Sentiment Analysis Engine** (Private)
+**Natural Language Processing application** for text analysis, sentiment classification, and topic modeling. Utilizes transformer models and traditional NLP techniques for real-world text understanding and insights.
+
+**Skills & Topics Covered:**
+- NLTK & spaCy text processing libraries
+- Transformer models (BERT, GPT)
+- Sentiment analysis & classification
+- Topic modeling (LDA, NMF)
+- Text embedding & vectorization (Word2Vec, TF-IDF)
+- Model evaluation & performance optimization
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -44,10 +112,11 @@ I'm a full-stack developer and ML engineer passionate about building innovative 
 | **Languages** | Python, Dart, JavaScript, SQL |
 | **Backend** | Django, Django REST Framework, FastAPI |
 | **Frontend** | Flutter, React |
-| **ML/CV** | TensorFlow, PyTorch, OpenCV, MediaPipe, Scikit-learn |
+| **ML/CV** | TensorFlow, PyTorch, OpenCV, MediaPipe, Scikit-learn, NLTK, spaCy |
 | **Cloud** | AWS (EC2, S3, Lambda, RDS) |
 | **DevOps** | Docker, GitHub Actions, CI/CD |
-| **Databases** | PostgreSQL, MongoDB, Firebase |
+| **Databases** | PostgreSQL, MongoDB, Firebase, SQLite |
+| **Data Tools** | Pandas, NumPy, Matplotlib, Plotly, Jupyter |
 
 ---
 
@@ -57,6 +126,8 @@ I'm a full-stack developer and ML engineer passionate about building innovative 
 - 🎯 Focus on **production-grade code** with emphasis on scalability and performance
 - 📦 Experienced in **end-to-end deployment** from local development to cloud production
 - 🔐 Strong commitment to **secure, maintainable architecture**
+- 🧠 Deep expertise in **ML/AI** spanning computer vision, NLP, and predictive analytics
+- 🛡️ Advanced knowledge of **security protocols** and **compliance standards**
 
 ---
 
@@ -66,6 +137,8 @@ I'm a full-stack developer and ML engineer passionate about building innovative 
 - 🌐 Distributed Systems & Microservices Architecture
 - 🎮 Real-time Computer Vision Applications
 - 🔄 CI/CD Automation & Infrastructure as Code
+- 🧬 Generative AI & Large Language Models (LLMs)
+- 📡 Edge Computing & Mobile ML Optimization
 
 ---
 

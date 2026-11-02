@@ -34,11 +34,11 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 
 ---
 
-### 🎭 [Face Filters](https://github.com/Siyapze/Face-filters)
-**Real-time computer vision application** using OpenCV and MediaPipe to detect facial landmarks and overlay dynamic visual effects.
+### 🎓 [Smart Degree Planner](https://github.com/Siyapze/Smart_Degree_Planner)
+**AI-powered academic planning system** designed to help students organize degree requirements, receive course recommendations, and manage study planning with intelligent assistance.
 
-**Tech Stack:** Python, OpenCV, MediaPipe  
-**Skills:** Computer Vision, Face detection, Image processing, Real-time visual systems
+**Tech Stack:** Python, JavaScript, React, AI integration  
+**Skills:** AI-assisted planning, full-stack development, educational product design, recommendations
 
 ---
 
@@ -50,11 +50,11 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 
 ---
 
-### 💳 [Credit Card Default Classification Analysis](https://github.com/Siyapze/Default-of-Credit-Card-Clients---Classification-Analysis)
-**Classification analysis** on the UCI credit card dataset to build predictive models for risk evaluation and decision-support.
+### 🎭 [Face Filters](https://github.com/Siyapze/Face-filters)
+**Real-time computer vision application** using OpenCV and MediaPipe to detect facial landmarks and overlay dynamic visual effects.
 
-**Tech Stack:** Jupyter Notebook, Python, Scikit-learn  
-**Skills:** Classification, predictive modeling, feature engineering, evaluation metrics
+**Tech Stack:** Python, OpenCV, MediaPipe  
+**Skills:** Computer Vision, Face detection, Image processing, Real-time visual systems
 
 ---
 
@@ -63,14 +63,6 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 
 **Tech Stack:** Full-stack web/mobile product application  
 **Skills:** Product thinking, user engagement, community platforms, full-stack development
-
----
-
-### 💰 [BudgetPulse](https://github.com/Siyapze/BudgetPulse)
-**Money monitoring application** built with TypeScript to help users track and manage financial activity and personal budgeting habits.
-
-**Tech Stack:** TypeScript  
-**Skills:** Product app development, UI logic, user-focused tooling, TypeScript engineering
 
 ---
 

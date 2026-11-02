@@ -1,4 +1,4 @@
-# Hi, I'm Siyapze | AI, ML & Product Engineer 🚀
+# Hi, I'm Siyapze
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -11,23 +11,16 @@
 
 ---
 
-## 👨‍💻 About Me
+I’m a developer with a strong interest in machine learning, applied AI, and building things that people can actually use. I like projects that sit somewhere between data, product, and real-world problem solving. A lot of my work has been around AI systems, computer vision, and full-stack applications that try to make smart ideas practical.
 
-I'm a developer and ML engineer focused on building practical AI systems, data-driven products, and user-facing applications. My work sits at the intersection of machine learning, applied AI, full-stack product development, and cross-platform app engineering.
-
-**Core Focus:**
-- 🤖 **AI / ML / Data Science**: LLM applications, RAG, predictive modeling, clustering, classification
-- 🧠 **Computer Vision**: OpenCV, face detection, image processing, real-time visual systems
-- 🌐 **Full-Stack Product Development**: Python, TypeScript, APIs, scalable app architecture
-- 📱 **Cross-Platform Apps**: Flutter, TypeScript, mobile-friendly product experiences
-- 🧩 **End-to-End Delivery**: from modeling and experimentation to product implementation
+I enjoy building things that are useful, a little interesting, and not just technically impressive for the sake of it.
 
 ---
 
 ## ⭐ Featured Projects
 
 ### 🧠 [FieldSafe_RAG](https://github.com/Siyapze/FieldSafe_RAG)
-**Applied AI / RAG project** focused on intelligent information retrieval and AI-assisted workflows. Demonstrates modern LLM-style application patterns with a Python-first implementation.
+This was one of my more recent AI-focused projects. I was exploring how retrieval and language models can make information easier to find and use in a practical workflow.
 
 **Tech Stack:** Python, Jupyter Notebook, Retrieval-Augmented Generation  
 **Skills:** RAG, NLP, AI application design, retrieval pipelines, applied machine learning
@@ -35,7 +28,7 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 ---
 
 ### 🎓 [Smart Degree Planner](https://github.com/Siyapze/Smart_Degree_Planner)
-**AI-powered academic planning system** designed to help students organize degree requirements, receive course recommendations, and manage study planning with intelligent assistance.
+This project is about helping students plan their academic journey more intelligently. The idea was to support course planning and decision-making with AI assistance instead of leaving everything to guesswork.
 
 **Tech Stack:** Python, JavaScript, React, AI integration  
 **Skills:** AI-assisted planning, full-stack development, educational product design, recommendations
@@ -43,7 +36,7 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 ---
 
 ### 📊 [Customer Segmentation Clustering](https://github.com/Siyapze/customer-segmentation-clustering)
-**Data science project** analyzing customer behavior using RFM analysis, PCA, and clustering to uncover meaningful segments and decision-ready insights.
+This was a data science project where I looked at customer behavior using RFM analysis, PCA, and clustering. The goal was to understand patterns in a way that could support better business decisions.
 
 **Tech Stack:** Jupyter Notebook, Python, Scikit-learn, Pandas  
 **Skills:** RFM analysis, PCA, K-Means, Hierarchical clustering, Data storytelling
@@ -51,7 +44,7 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 ---
 
 ### 🎭 [Face Filters](https://github.com/Siyapze/Face-filters)
-**Real-time computer vision application** using OpenCV and MediaPipe to detect facial landmarks and overlay dynamic visual effects.
+This project was a fun way to explore computer vision and real-time visual effects. I used OpenCV and MediaPipe to detect facial features and layer interactive effects on top of them.
 
 **Tech Stack:** Python, OpenCV, MediaPipe  
 **Skills:** Computer Vision, Face detection, Image processing, Real-time visual systems
@@ -59,7 +52,7 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 ---
 
 ### 🙌 [disciple-network-app](https://github.com/Siyapze/disciple-network-app)
-**Community-focused discipleship platform** for campus ministries, with mentorship mapping, spiritual habit tracking, stage-based growth workflows, and alumni connectivity to support intentional accountability and leadership development.
+This was a product-style project built around community and accountability. It’s meant to help people stay connected in a discipleship context, with mentoring, habit tracking, and structured growth flows.
 
 **Tech Stack:** Full-stack web/mobile product application  
 **Skills:** Product thinking, user engagement, community platforms, full-stack development
@@ -67,20 +60,20 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 ---
 
 ### 🚀 [SAS-Hackathon-Funka_team](https://github.com/Siyapze/SAS-Hackathon-Funka_team)
-**Hackathon project** showcasing fast-paced problem-solving, team collaboration, and practical software implementation in a competitive environment.
+This was a hackathon project that pushed me to move quickly, think practically, and build something that worked under time pressure. It was a good reminder that a lot of real software work is about solving the right problem efficiently.
 
 **Tech Stack:** Python, JavaScript  
 **Skills:** Rapid prototyping, team-based development, applied problem solving
 
 ---
 
-## 📌 Profile Themes
+## 🧩 What I like building
 
-- AI / ML / Data Science
-- RAG / Applied AI
-- Computer Vision
-- Full-stack / product apps
-- Cross-platform mobile apps
+- AI and machine learning projects that solve real tasks
+- RAG and applied AI experiences
+- Computer vision and visual interaction systems
+- Full-stack products that people can actually use
+- Cross-platform apps with a strong user experience
 
 ---
 
@@ -99,30 +92,15 @@ I'm a developer and ML engineer focused on building practical AI systems, data-d
 
 ---
 
-## 📊 Highlights
+## 📌 My focus right now
 
-- 💡 Strong interest in **applied AI and intelligent systems**
-- 📈 Experience in **data science, clustering, classification, and predictive analysis**
-- 🧠 Hands-on work in **computer vision and image processing**
-- 🌐 Building **full-stack and product-oriented applications**
-- 📱 Delivering **cross-platform and user-focused experiences**
-- 🚀 Comfortable moving from **research to real-world implementation**
-
----
-
-## 🎯 Current Focus
-
-- Advanced LLM and RAG applications
-- AI product development and deployment
-- Machine learning workflows and model-driven decision systems
-- Computer vision and real-time AI experiences
-- Full-stack software engineering and product design
+I’m especially interested in AI systems that are useful in practice, not just technically impressive. I enjoy projects that combine model work with product thinking, and I’m continuing to explore LLMs, RAG, computer vision, and real-world application design.
 
 ---
 
 ## 📬 Let’s Connect
 
-I’m always open to work, collaboration, and conversations around AI, product engineering, and meaningful technology solutions.
+I’m always open to conversations about AI, product engineering, and building useful technology. If you’re working on something interesting, I’d be happy to connect.
 
 <div align="center">
   <a href="https://github.com/Siyapze">
@@ -135,4 +113,4 @@ I’m always open to work, collaboration, and conversations around AI, product e
 
 ---
 
-*Building practical AI, intelligent products, and meaningful user experiences.* ✨
+*Building practical AI, useful products, and ideas that are worth shipping.* ✨
